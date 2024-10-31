@@ -1,5 +1,3 @@
-# Data-Science-Salary-Analysis
-
 # 📊 Data Science Salary Analysis
 
 This repository provides an analysis of salary trends in the data science field. By exploring various factors that influence salaries, such as experience, location, company size, and specific data science roles, this project uncovers valuable insights for both aspiring data professionals and hiring managers.
